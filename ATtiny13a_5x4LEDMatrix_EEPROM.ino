@@ -1,13 +1,13 @@
 /*
 
- @file ATtiny13A_5x4LEDMatrix_EEPROM.ino
+ @file ATtiny13a_5x4LEDMatrix_EEPROM.ino
 
    <Fuse>
     hFuse    0xFF
     lFuse    0x7A
     Lock Bit 0x3F
  
- @brief 5x4 LED Matrix (ATtiny13A)
+ @brief 5x4 LED Matrix (ATtiny13a)
         It is for making messages of EEPROM.
  @author Kei Takagi
  @date 2016.11.22

@@ -1,8 +1,8 @@
 /*
 
- @file X_mas_tree_ATtiny13A.ino
+ @file X_mas_tree_ATtiny13.ino
  
- @brief Mini 12 LED Christmas tree (ATtiny13A)
+ @brief Mini 12 LED Christmas tree (ATtiny13a)
  @author Kei Takagi
  @date 2016.11.25
  
