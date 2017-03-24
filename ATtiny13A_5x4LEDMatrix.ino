@@ -7,7 +7,7 @@
     lFuse    0x7A
     Lock Bit 0x3F
  
- @brief 5x4 LED Matrix (ATtiny13a)
+ @brief 5x4 LED Matrix (ATtiny13A)
  @author Kei Takagi
  @date 2016.11.22
  
